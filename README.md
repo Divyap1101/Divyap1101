@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Divyap1101
-- 👀 I’m interested in Front-end  
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning computer science and software testing
-- 💞️ I’m looking for internship in my role
 - 📫 my email address is dp124812@gmail.com
 
 <!---
